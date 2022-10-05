@@ -1,8 +1,5 @@
-- Hello, I’m @EgaGeraldes
-- I’m currently a law student at the 'Universidade Lusíada do Porto', in Portugal
-- I’m currently learning Basic Web Design!
-- I’m looking to collaborate on ...
-- How to reach me: Contact me via email: manuelgeraldes712@gmail.com
+- Hi, I'm currently a rookie when it comes to everything related to coding. Currently studying basic web design with HTML and CSS.
+- I appreciate any advice on code I publish here, my email is manuelgeraldes712@gmail.com
 
 <!---
 EgaGeraldes/EgaGeraldes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
